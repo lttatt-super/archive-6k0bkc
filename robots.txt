@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lttatt-super.github.io/archive-6k0bkc/sitemap.xml
